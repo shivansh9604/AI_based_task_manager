@@ -1,0 +1,13 @@
+task_id,description,priority
+7,"Fix logout bug in mobile app",High
+8,"Design contact us form",Medium
+9,"Create data migration script",High
+10,"Clean old log files",Low
+11,"Build analytics dashboard",Medium
+12,"Write test cases for payment module",High
+13,"Set up Jenkins pipeline",Medium
+14,"Optimize SQL queries",High
+15,"Update terms and conditions",Low
+16,"Implement user authentication",High
+17,"Create API documentation",Medium
+18,"Fix issue with payment gateway",High
